@@ -69,16 +69,21 @@ Halaman ini digunakan untuk menambah atau mengedit data. Terdapat formulir di ha
 
 ## Dokumentasi saat Program Dijalankan
 1. tabel pasien
-
+![index](https://github.com/jasminefwz/LP11DPBO2024C2/assets/147362810/f0487f79-14ad-495f-8301-5fa01ec400b4)
 
 2. add
-
+![add](https://github.com/jasminefwz/LP11DPBO2024C2/assets/147362810/b9831aae-3bf5-4a55-8b83-fbda90dffb9e)
+![add vernon](https://github.com/jasminefwz/LP11DPBO2024C2/assets/147362810/ad2d00f0-5920-4a9e-99e9-72202cd04cd9)
+![add berhasil](https://github.com/jasminefwz/LP11DPBO2024C2/assets/147362810/2e3b3400-5db2-49c7-a417-aba6f955e430)
 
 3. edit 
-
+![edit dinda](https://github.com/jasminefwz/LP11DPBO2024C2/assets/147362810/227d7b46-4acd-45e6-b7da-624ef510fc30)
+![edit berhasil](https://github.com/jasminefwz/LP11DPBO2024C2/assets/147362810/6f19ca2e-f009-459e-adb3-07e0ad3f7589)
 
 4. delete
+![delete](https://github.com/jasminefwz/LP11DPBO2024C2/assets/147362810/d985674c-4fa8-4afb-83a4-02c8d515c8eb)
 
+5. hasil
+![hasil](https://github.com/jasminefwz/LP11DPBO2024C2/assets/147362810/98a7c6b6-d30d-4419-8c77-87b42d80f518)
 
-5. Video preview
-
+6. Video preview
