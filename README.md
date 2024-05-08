@@ -87,3 +87,4 @@ Halaman ini digunakan untuk menambah atau mengedit data. Terdapat formulir di ha
 ![hasil](https://github.com/jasminefwz/LP11DPBO2024C2/assets/147362810/98a7c6b6-d30d-4419-8c77-87b42d80f518)
 
 6. Video preview
+https://github.com/jasminefwz/LP11DPBO2024C2/assets/147362810/60164f9c-a29b-43b2-aa73-ea7e383f04a5
